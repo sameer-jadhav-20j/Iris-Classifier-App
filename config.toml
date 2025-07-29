@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#1a237e"  # Deep blue (professional)
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f8"  # Subtle gray background for contrast
+textColor = "#212121"  # Near-black, good readability
+font = "sans serif"
